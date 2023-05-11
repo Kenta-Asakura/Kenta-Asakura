@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **asakura.kenta963420@gmail.com**
 
-- 📄 Know about my experiences, check out my [Resume](https://drive.google.com/file/d/19g5ecqchYZW5PseyHGaY0rWIASbW8U_v/view?usp=sharing)
+- 📄 Know about my experiences, check out my [resume](https://drive.google.com/file/d/19g5ecqchYZW5PseyHGaY0rWIASbW8U_v/view?usp=sharing)
 
 - 💿 Fun fact **I collect vinyl records**
 
