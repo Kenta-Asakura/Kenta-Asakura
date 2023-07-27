@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenta Asakura</h1>
-<h3 align="center">Hi, I'm Kenta, a passionate Filipino-Japanese full stack developer based in Yokohama, Japan.</h3>
+<h3 align="center">Hi, I'm Kenta, a passionate Filipino-Japanese Web developer based in Yokohama, Japan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenta-asakura&label=Profile%20views&color=0e75b6&style=flat" alt="kenta-asakura" /> </p>
 
