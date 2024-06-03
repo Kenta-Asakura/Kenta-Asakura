@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://kentaasakura.me/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://kentaasakura.pro/)
 
 - 📫 How to reach me **asakura.kenta963420@gmail.com**
 
