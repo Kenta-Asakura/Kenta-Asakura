@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenta-asakura&label=Profile%20views&color=0e75b6&style=flat" alt="kenta-asakura" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Testing with Vitest/Jest**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://kentaasakura.pro/)
 
 - 📫 How to reach me **asakura.kenta963420@gmail.com**
 
-- 📄 Know about my experiences, check out my [resume](https://drive.google.com/file/d/19g5ecqchYZW5PseyHGaY0rWIASbW8U_v/view?usp=sharing)
+- 📄 Know about my experiences, check out my [resume](https://docs.google.com/document/d/13Ia3JVUB8Lqdj4k5VtVcU-cHTwP4mhTf/edit?usp=sharing&ouid=100287129119339817059&rtpof=true&sd=true)
 
-- 💿 Fun fact **I collect vinyl records**
+- 💿 Fun fact I collect vinyl records
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
