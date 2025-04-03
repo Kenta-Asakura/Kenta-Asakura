@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenta-asakura&label=Profile%20views&color=0e75b6&style=flat" alt="kenta-asakura" /> </p>
 
-- 🌱 I’m currently learning **Testing with Vitest/Jest**
+- 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://kentaasakura.pro/)
 
