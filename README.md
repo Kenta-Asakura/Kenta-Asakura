@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenta-asakura&label=Profile%20views&color=0e75b6&style=flat" alt="kenta-asakura" /> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 Current pet project Kanban (React + Vitest)
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://kentaasakura.pro/)
+- 👨‍💻 Checkout my [portfolio](https://kentaasakura.pro/)
 
 - 📫 How to reach me **asakura.kenta963420@gmail.com**
-
-- 📄 Know about my experiences, check out my [resume](https://drive.google.com/file/d/1OJu-BhuvYfTRLwkSmiKKqhuCyUychaCT/view?usp=sharing)
 
 - 💿 Fun fact I collect vinyl records
 
