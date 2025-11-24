@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenta-asakura&label=Profile%20views&color=0e75b6&style=flat" alt="kenta-asakura" /> </p>
 
-- 🌱 Current pet project Kanban (React + Vitest)
+- 🌱 Current pet project Developer Portfolio Version 2 (React + TailwindCSS/DaisyUI)
 
 - 👨‍💻 Checkout my [portfolio](https://kentaasakura.pro/)
 
